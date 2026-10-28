@@ -1,0 +1,44 @@
+================================================================================
+                        BHARATCODE COMPETITION SUBMISSION
+================================================================================
+
+PROJECT DETAILS:
+----------------
+Project Name     : EcoTrack India — Smart Sustainability Platform
+Track / Category : Web Development / Sustainability & Green Tech
+Repository Path  : /ecotrack-india
+
+PARTICIPANT / TEAM INFORMATION:
+-------------------------------
+Candidate Name   : [Please enter your full name here]
+Team Name        : [Please enter your team name here, or Individual]
+Registration ID  : [Please enter your BharatCode Registration / Roll Number]
+Email Address    : [Please enter your registered email address]
+College / Org    : [Please enter your College, University, or Organization]
+
+SUBMISSION METADATA:
+--------------------
+Date of Submission : October 27, 2026
+Tech Stack         : React 18 (JSX), HTML5, CSS3, JavaScript (ES6+), Local Storage, Vite
+Backend / Database : None (100% Client-Side with Browser Local Storage)
+External APIs      : None (Runs fully offline without paid services or API keys)
+
+PROJECT OVERVIEW:
+-----------------
+EcoTrack India is a smart sustainability platform designed specifically for
+Indian households and citizens. It empowers users to:
+1. Track everyday eco-friendly habits (wet/dry waste segregation, bucket baths,
+   jute bags for sabzi mandi, short-trip walking/cycling).
+2. Calculate their estimated carbon footprint tailored to Indian lifestyle data
+   (CEA Indian electricity grid baseline, ARAI vehicle factors, LPG cylinder usage).
+3. Complete daily and weekly sustainability challenges with duplicate-reward prevention.
+4. Unlock achievement badges and monitor environmental savings (CO2 kg saved, water saved,
+   plastic items avoided).
+5. Learn practical sustainability tips through an Indian context Eco Guide.
+
+DECLARATION:
+------------
+This project was created following strict competition guidelines: pure React JSX,
+custom CSS, zero external UI/CSS/chart libraries, and persistent Local Storage.
+
+================================================================================

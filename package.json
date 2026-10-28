@@ -1,0 +1,11 @@
+{
+  "name": "ecotrack-india-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix ecotrack-india run dev",
+    "build": "npm --prefix ecotrack-india run build",
+    "start": "npm --prefix ecotrack-india run dev",
+    "preview": "npm --prefix ecotrack-india run preview"
+  }
+}
